@@ -48,20 +48,6 @@ const Footer: React.FC = () => {
         </a>
       </div>
       <hr />
-
-      {/* If you enjoyed this template, please leave my credits here! :) */}
-
-      <span className="copyright">
-        © {new Date().getFullYear()} - Template developed by
-        <a
-          href="https://github.com/guvarallo"
-          rel="noopener noreferrer"
-          target="_blank"
-        >
-          {' '}
-          Gus Varallo
-        </a>
-      </span>
     </Container>
   );
 };
